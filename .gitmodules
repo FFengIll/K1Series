@@ -1,0 +1,9 @@
+[submodule "fluidd"]
+	path = fluidd
+	url = https://github.com/fluidd-core/fluidd
+[submodule "moonraker"]
+	path = moonraker
+	url = https://github.com/Arksine/moonraker.git
+[submodule "K1_Series_Klipper"]
+	path = K1_Series_Klipper
+	url = https://github.com/CrealityOfficial/K1_Series_Klipper.git
