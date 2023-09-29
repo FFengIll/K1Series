@@ -7,3 +7,6 @@
 [submodule "K1_Series_Klipper"]
 	path = K1_Series_Klipper
 	url = https://github.com/CrealityOfficial/K1_Series_Klipper.git
+[submodule "K1_Series_Annex"]
+	path = K1_Series_Annex
+	url = https://github.com/CrealityOfficial/K1_Series_Annex.git
