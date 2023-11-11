@@ -13,3 +13,6 @@
 [submodule "K1_Max_Install_Helper"]
 	path = K1_Max_Install_Helper
 	url = https://github.com/Guilouz/Creality-K1-and-K1-Max.git
+[submodule "KAMP"]
+	path = KAMP
+	url = https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging.git
