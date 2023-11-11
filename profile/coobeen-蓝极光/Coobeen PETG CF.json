@@ -1,0 +1,42 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "68"
+    ],
+    "filament_flow_ratio": [
+        "1.067"
+    ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
+    "filament_settings_id": [
+        "Coobeen PETG CF"
+    ],
+    "filament_type": [
+        "PETG-CF"
+    ],
+    "filament_vendor": [
+        "Coobeen"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL P1P",
+    "name": "Coobeen PETG CF",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "pressure_advance": [
+        "0.034"
+    ],
+    "textured_plate_temp": [
+        "70"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "70"
+    ],
+    "version": "1.4.1.4"
+}

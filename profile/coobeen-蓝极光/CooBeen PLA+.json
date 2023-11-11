@@ -1,0 +1,28 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.995"
+    ],
+    "filament_settings_id": [
+        "CooBeen PLA+"
+    ],
+    "filament_vendor": [
+        "CooBeen"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "CooBeen PLA+",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "pressure_advance": [
+        "0.026"
+    ],
+    "version": "1.7.0.18"
+}
