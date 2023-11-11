@@ -15,4 +15,4 @@ Mention: this repo is mainly work for K1 Max and may not work well for K1.
   - Fluidd
   - Orca Profile
 - Private
-  - Gcode Edit
+  - Config Edit with *.gcode and *.cfg
