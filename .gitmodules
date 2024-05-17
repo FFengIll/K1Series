@@ -1,18 +1,18 @@
 [submodule "fluidd"]
-	path = resource/fluidd
-	url = https://github.com/fluidd-core/fluidd
+path = resource/fluidd
+url = https://github.com/fluidd-core/fluidd
 [submodule "moonraker"]
-	path = resource/moonraker
-	url = https://github.com/Arksine/moonraker.git
+path = resource/moonraker
+url = https://github.com/Arksine/moonraker.git
 [submodule "K1_Series_Klipper"]
-	path = resource/K1_Series_Klipper
-	url = https://github.com/CrealityOfficial/K1_Series_Klipper.git
+path = resource/K1_Series_Klipper
+url = https://github.com/CrealityOfficial/K1_Series_Klipper.git
 [submodule "K1_Series_Annex"]
-	path = resource/K1_Series_Annex
-	url = https://github.com/CrealityOfficial/K1_Series_Annex.git
+path = resource/K1_Series_Annex
+url = https://github.com/CrealityOfficial/K1_Series_Annex.git
 [submodule "K1_Max_Install_Helper"]
-	path = resource/K1_Max_Install_Helper
-	url = https://github.com/Guilouz/Creality-K1-and-K1-Max.git
+path = resource/K1_Max_Install_Helper
+url = https://github.com/Guilouz/Creality-Helper-Script-Wiki.git
 [submodule "KAMP"]
-	path = resource/KAMP
-	url = https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging.git
+path = resource/KAMP
+url = https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging.git
