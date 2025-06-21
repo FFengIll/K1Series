@@ -25,3 +25,4 @@ Mention: this repo is mainly work for K1 Max and may not work well for K1.
   - python3 -m http.server 9090
   - wget ip:9090/filename
 - install helper under `usr/data`
+- ssh creality_2023
